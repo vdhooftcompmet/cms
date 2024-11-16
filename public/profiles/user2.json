@@ -1,0 +1,32 @@
+{
+    "name": "Jane Doe",
+    "profilePicture": "placeholder_user.png",
+    "role": "Post-doctoral researcher",
+    "links": [
+        {
+            "title": "LinkedIn",
+            "url": "https://www.linkedin.com/in/janedoe"
+        },
+        {
+            "title": "Google Scholar",
+            "url": "https://scholar.google.com/citations?user=1234567890"
+        }
+    ],
+    "sections": [
+        {
+            "title": "About me",
+            "content": "I am a post-doctoral researcher at the University of Amsterdam. My research focuses on the intersection of computer science and biology.",
+            "images": [
+                "placeholder_image.png"
+            ]
+        },
+        {
+            "title": "Publications",
+            "content": "I have published several papers in top-tier conferences and journals. My most recent paper was published in Nature.",
+            "images": [
+                "placeholder_image.png",
+                "placeholder_image.png"
+            ]
+        }
+    ]
+}
